@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal CG</h1>
 <h3 align="center">Looking for front end freelance work</h3>
 <img src="https://gifer.com/embed/Ry6p.gif" alt = "gif">
-<img src = "https://media.giphy.com/media/3o6UBpHgaXFDNAuttm/giphy.gif" alt = "test">
+<img src = "https://i.gifer.com/NxfN.gif" alt = "test">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kooshal71&label=Profile%20views&color=0e75b6&style=flat" alt="kooshal71" /> </p>
 
