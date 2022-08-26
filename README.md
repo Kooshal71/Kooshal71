@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal CG</h1>
 <h3 align="center">Looking for front end freelance work</h3>
+<img src = "https://gifer.com/en/Ry6p" alt="gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kooshal71&label=Profile%20views&color=0e75b6&style=flat" alt="kooshal71" /> </p>
 
