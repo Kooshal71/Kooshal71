@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kushalganesh2@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1wLxwrxB-cc9vS5jMkGlohVxzUzrA-UGd/view?usp=sharing](https://drive.google.com/file/d/1wLxwrxB-cc9vS5jMkGlohVxzUzrA-UGd/view?usp=sharing)
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1wLxwrxB-cc9vS5jMkGlohVxzUzrA-UGd/view?usp=sharing](https://drive.google.com/file/d/1wLxwrxB-cc9vS5jMkGlohVxzUzrA-UGd/view?usp=sharing">Resume Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
